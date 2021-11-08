@@ -86,7 +86,7 @@ p.employmentSubheading {
 
 p.employmentDuration {
   font-size: 10px;
-  color: rgb(190, 190, 190);
+  color: rgb(150, 150, 150);
   margin-bottom: 8px;
 }
 
@@ -97,12 +97,16 @@ p.educationSubheading {
 
 p.educationDuration {
   font-size: 10px;
-  color: rgb(190, 190, 190);
+  color: rgb(150, 150, 150);
   margin-bottom: 8px;
 }
 
 a.link {
   color: white;
+}
+
+a.codeLink {
+  color: black;
 }
 
 h5 {

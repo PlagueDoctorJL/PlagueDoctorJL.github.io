@@ -14,7 +14,7 @@ function App() {
           <h6><b>Details</b></h6>
           <p>
             Auckland, New Zealand<br/>
-            JasperLBusiness@gmail.com<br/>
+            jasperlbusiness@gmail.com<br/>
             <a href="https://www.linkedin.com/in/jasperlyonsnz/" className="link">https://www.linkedin.com/in/jasperlyonsnz/</a>           
           </p>
 
@@ -56,10 +56,10 @@ function App() {
         <Col className="detailsColumn p-0">   
           <h5 style={{paddingTop: '45px'}}><b>About Me</b></h5>   
           <p>
-            I am extremely passionate about game development and am looking to further solidify my place in the industry. I pride
-            myself in my ability to pick up concepts quickly, and adapt to any situation that comes my way, be it within a team
-            environment, or on my own. My creative background allows me to problem solve and design outside of the box that
-            most programmers are contained within.  
+            I am a passionate creative thinker, driven by learning and self improvement. I pride myself on being able to tackle challenging tasks
+            and produce stellar results. I'm experienced in working in a high intensity team environment, as well as
+            within a highly self directed framework. Through the intermittent lockdowns New Zealand has faced, I've had to find new employment three
+            times (circumstances unrelated to me in each case). I'm no stranger to hitting the ground running, be it in the office, or from home.
           </p>  
 
           <h5><b>Employment History</b></h5>      
@@ -111,6 +111,7 @@ function App() {
           <h5><b>References/Portfolio</b></h5>  
           <p>
             Will provide employer/tertiary references and code portfolio upon request.
+            View the code used to build this page at: <a href="https://plaguedoctorjl.github.io/" className="codeLink">https://plaguedoctorjl.github.io/</a>
           </p>
         </Col>
       </Row>
